@@ -1,0 +1,92 @@
+[
+    {
+        "company_name":"SAMSUNG DISPLAY CO., LTD.",
+        "unique_inventors":74705,
+        "total_patents":174536,
+        "inventors_per_patent":0.43
+    },
+    {
+        "company_name":"International Business Machines Corporation",
+        "unique_inventors":70765,
+        "total_patents":164081,
+        "inventors_per_patent":0.43
+    },
+    {
+        "company_name":"General Electric Company",
+        "unique_inventors":31766,
+        "total_patents":52040,
+        "inventors_per_patent":0.61
+    },
+    {
+        "company_name":"HITACHI, LTD.",
+        "unique_inventors":29376,
+        "total_patents":46073,
+        "inventors_per_patent":0.64
+    },
+    {
+        "company_name":"Microsoft Technology Licensing, LLC",
+        "unique_inventors":27813,
+        "total_patents":24834,
+        "inventors_per_patent":1.12
+    },
+    {
+        "company_name":"MITSUBISHI ELECTRIC CORPORATION",
+        "unique_inventors":26254,
+        "total_patents":45738,
+        "inventors_per_patent":0.57
+    },
+    {
+        "company_name":"Intel Corporation",
+        "unique_inventors":24860,
+        "total_patents":53218,
+        "inventors_per_patent":0.47
+    },
+    {
+        "company_name":"Fujitsu Limited",
+        "unique_inventors":24817,
+        "total_patents":56341,
+        "inventors_per_patent":0.44
+    },
+    {
+        "company_name":"TOYOTA JIDOSHA KABUSHIKI KAISHA",
+        "unique_inventors":23800,
+        "total_patents":39413,
+        "inventors_per_patent":0.6
+    },
+    {
+        "company_name":"Siemens Aktiengesellschaft",
+        "unique_inventors":23233,
+        "total_patents":31018,
+        "inventors_per_patent":0.75
+    },
+    {
+        "company_name":"SUMITOMO ELECTRIC INDUSTRIES, LTD.",
+        "unique_inventors":22155,
+        "total_patents":38355,
+        "inventors_per_patent":0.58
+    },
+    {
+        "company_name":"SONY GROUP CORPORATION",
+        "unique_inventors":22014,
+        "total_patents":62908,
+        "inventors_per_patent":0.35
+    },
+    {
+        "company_name":"Kabushiki Kaisha Toshiba",
+        "unique_inventors":21526,
+        "total_patents":53604,
+        "inventors_per_patent":0.4
+    },
+    {
+        "company_name":"HONDA MOTOR CO., LTD.",
+        "unique_inventors":21405,
+        "total_patents":32295,
+        "inventors_per_patent":0.66
+    },
+    {
+        "company_name":"Robert Bosch GmbH",
+        "unique_inventors":20381,
+        "total_patents":29525,
+        "inventors_per_patent":0.69
+    }
+]

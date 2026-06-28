@@ -1,0 +1,52 @@
+[
+    {
+        "inventor_name":"Shunpei Yamazaki",
+        "total_patents":6787,
+        "inventor_rank":1
+    },
+    {
+        "inventor_name":"Kia Silverbrook",
+        "total_patents":4778,
+        "inventor_rank":2
+    },
+    {
+        "inventor_name":"Tao Luo",
+        "total_patents":4490,
+        "inventor_rank":3
+    },
+    {
+        "inventor_name":"Jonathan P. Ive",
+        "total_patents":2955,
+        "inventor_rank":4
+    },
+    {
+        "inventor_name":"Junyi Li",
+        "total_patents":2883,
+        "inventor_rank":5
+    },
+    {
+        "inventor_name":"Kangguo Cheng",
+        "total_patents":2835,
+        "inventor_rank":6
+    },
+    {
+        "inventor_name":"Frederick E. Shelton, IV",
+        "total_patents":2723,
+        "inventor_rank":7
+    },
+    {
+        "inventor_name":"Peter Gaal",
+        "total_patents":2554,
+        "inventor_rank":8
+    },
+    {
+        "inventor_name":"Duncan Robert Kerr",
+        "total_patents":2534,
+        "inventor_rank":9
+    },
+    {
+        "inventor_name":"Bartley K. Andre",
+        "total_patents":2478,
+        "inventor_rank":10
+    }
+]

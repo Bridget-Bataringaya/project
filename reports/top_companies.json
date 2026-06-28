@@ -1,0 +1,42 @@
+[
+    {
+        "company_name":"SAMSUNG DISPLAY CO., LTD.",
+        "total_patents":174536
+    },
+    {
+        "company_name":"International Business Machines Corporation",
+        "total_patents":164081
+    },
+    {
+        "company_name":"CANON KABUSHIKI KAISHA",
+        "total_patents":91328
+    },
+    {
+        "company_name":"SONY GROUP CORPORATION",
+        "total_patents":62908
+    },
+    {
+        "company_name":"Fujitsu Limited",
+        "total_patents":56341
+    },
+    {
+        "company_name":"Kabushiki Kaisha Toshiba",
+        "total_patents":53604
+    },
+    {
+        "company_name":"Intel Corporation",
+        "total_patents":53218
+    },
+    {
+        "company_name":"General Electric Company",
+        "total_patents":52040
+    },
+    {
+        "company_name":"LG ELECTRONICS INC.",
+        "total_patents":50000
+    },
+    {
+        "company_name":"HITACHI, LTD.",
+        "total_patents":46073
+    }
+]

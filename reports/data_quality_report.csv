@@ -1,0 +1,9 @@
+table_name,total_rows,columns,missing_values_in_10000_row_sample,duplicate_rows_in_10000_row_sample
+g_assignee_disambiguated,8751310,8,19902,0
+g_cpc_at_issue,25022251,9,0,0
+g_cpc_current,59805669,7,0,0
+g_cpc_title,271366,6,0,0
+g_inventor_disambiguated,24037380,7,77,0
+g_ipc_at_issue,25505642,13,10612,0
+g_patent,9454161,8,0,0
+g_patent_abstract,9454161,2,0,0

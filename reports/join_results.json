@@ -1,0 +1,1002 @@
+[
+    {
+        "patent_id":"10000000",
+        "title":"Coherent LADAR using intra-pixel quadrature detection",
+        "abstract":"A frequency modulated (coherent) laser detection and ranging system includes a read-out integrated circuit formed with a two-dimensional array of detector elements each including a photosensitive region receiving both return light reflected from a target and light from a local oscillator, and local processing circuitry sampling the output of the photosensitive region four times during each sample period clock cycle to obtain quadrature components. A data bus coupled to one or more outputs of each of the detector elements receives the quadrature components from each of the detector elements for each sample period and serializes the received quadrature components. A processor coupled to the data bus receives the serialized quadrature components and determines an amplitude and a phase for at least one interfering frequency corresponding to interference between the return light and the local oscillator light using the quadrature components.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Joseph Marron",
+        "country":"005e2495-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"Raytheon Company"
+    },
+    {
+        "patent_id":"10000000",
+        "title":"Coherent LADAR using intra-pixel quadrature detection",
+        "abstract":"A frequency modulated (coherent) laser detection and ranging system includes a read-out integrated circuit formed with a two-dimensional array of detector elements each including a photosensitive region receiving both return light reflected from a target and light from a local oscillator, and local processing circuitry sampling the output of the photosensitive region four times during each sample period clock cycle to obtain quadrature components. A data bus coupled to one or more outputs of each of the detector elements receives the quadrature components from each of the detector elements for each sample period and serializes the received quadrature components. A processor coupled to the data bus receives the serialized quadrature components and determines an amplitude and a phase for at least one interfering frequency corresponding to interference between the return light and the local oscillator light using the quadrature components.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Joseph Marron",
+        "country":"198b0471-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"Raytheon Company"
+    },
+    {
+        "patent_id":"10000000",
+        "title":"Coherent LADAR using intra-pixel quadrature detection",
+        "abstract":"A frequency modulated (coherent) laser detection and ranging system includes a read-out integrated circuit formed with a two-dimensional array of detector elements each including a photosensitive region receiving both return light reflected from a target and light from a local oscillator, and local processing circuitry sampling the output of the photosensitive region four times during each sample period clock cycle to obtain quadrature components. A data bus coupled to one or more outputs of each of the detector elements receives the quadrature components from each of the detector elements for each sample period and serializes the received quadrature components. A processor coupled to the data bus receives the serialized quadrature components and determines an amplitude and a phase for at least one interfering frequency corresponding to interference between the return light and the local oscillator light using the quadrature components.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Joseph Marron",
+        "country":"4c7a9f37-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"Raytheon Company"
+    },
+    {
+        "patent_id":"10000000",
+        "title":"Coherent LADAR using intra-pixel quadrature detection",
+        "abstract":"A frequency modulated (coherent) laser detection and ranging system includes a read-out integrated circuit formed with a two-dimensional array of detector elements each including a photosensitive region receiving both return light reflected from a target and light from a local oscillator, and local processing circuitry sampling the output of the photosensitive region four times during each sample period clock cycle to obtain quadrature components. A data bus coupled to one or more outputs of each of the detector elements receives the quadrature components from each of the detector elements for each sample period and serializes the received quadrature components. A processor coupled to the data bus receives the serialized quadrature components and determines an amplitude and a phase for at least one interfering frequency corresponding to interference between the return light and the local oscillator light using the quadrature components.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Joseph Marron",
+        "country":"4cc37449-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"Raytheon Company"
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Hyeon Jae Yu",
+        "country":"1aeb68dd-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Hyeon Jae Yu",
+        "country":"3eb37495-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"1972c404-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"1aeb3c64-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"1aeb68dd-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"3eb30168-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"3eea8bf8-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"5fe1183d-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"6c4b99cc-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"6c4ba08f-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"7514b765-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"7514dba4-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"75436e0d-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"755a2aab-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"803ab8e6-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"9abd2461-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000001",
+        "title":"Injection molding machine and mold thickness control method",
+        "abstract":"The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Sun-Woo Lee",
+        "country":"e0c91e74-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"LS MTRON LTD."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong-Hyeon Choi",
+        "country":"6c4bb5b6-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong-Hyeon Choi",
+        "country":"755a6338-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"15c69712-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"1972c404-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"198afa8c-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"1aea936f-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"1aeb3c64-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"3eb2eaaa-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"3eb30168-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"3eb3274f-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"3eea8bf8-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"5fb8332f-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"6c4b1d13-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"6c4b3cd9-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"6c4b83c5-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"6c4be691-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"6c4be9e5-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"6c4bece1-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"74f93c7c-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"75436e0d-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"75599edb-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"755a2aab-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"755a6338-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"76559f24-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"76760828-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"9a944c1d-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Dong Jin Kim",
+        "country":"c423b284-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Si Min Kim",
+        "country":"3eb2eaaa-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Si Min Kim",
+        "country":"7514a0d5-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Si Min Kim",
+        "country":"755a6338-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Yun-Jo Kim",
+        "country":"3eb34b7f-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Yun-Jo Kim",
+        "country":"6c4b83c5-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Yun-Jo Kim",
+        "country":"755a6338-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000002",
+        "title":"Method for manufacturing polymer film and co-extruded film",
+        "abstract":"The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Yun-Jo Kim",
+        "country":"765650c0-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KOLON INDUSTRIES, INC."
+    },
+    {
+        "patent_id":"10000003",
+        "title":"Method for producing a container from a thermoplastic",
+        "abstract":"The invention relates to a method for producing a container (2) from a thermoplastic, having at least one surround (4), provided in the container wall (1), for a container opening. The surround (4) comprises a structure behind which parts of the container wall (1) extend and\/or which is penetrated by said parts. The method is carried out using a multi-part blow mold that has at least two mold parts, each having at least one cavity, wherein the surround is placed as an insert in the cavity (10) of the blow mold (7). The method comprises pressing the preform that has been forced into the cavity (10) into the structure of the surround (4) by means of a tool which is brought to bear on the preform (12) on the side of the preform facing away from the cavity (10).",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Carsten Elsasser",
+        "country":null,
+        "company_name":"KAUTEX TEXTRON GmbH & Co. KG"
+    },
+    {
+        "patent_id":"10000003",
+        "title":"Method for producing a container from a thermoplastic",
+        "abstract":"The invention relates to a method for producing a container (2) from a thermoplastic, having at least one surround (4), provided in the container wall (1), for a container opening. The surround (4) comprises a structure behind which parts of the container wall (1) extend and\/or which is penetrated by said parts. The method is carried out using a multi-part blow mold that has at least two mold parts, each having at least one cavity, wherein the surround is placed as an insert in the cavity (10) of the blow mold (7). The method comprises pressing the preform that has been forced into the cavity (10) into the structure of the surround (4) by means of a tool which is brought to bear on the preform (12) on the side of the preform facing away from the cavity (10).",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Carsten Elsasser",
+        "country":"599a7324-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KAUTEX TEXTRON GmbH & Co. KG"
+    },
+    {
+        "patent_id":"10000003",
+        "title":"Method for producing a container from a thermoplastic",
+        "abstract":"The invention relates to a method for producing a container (2) from a thermoplastic, having at least one surround (4), provided in the container wall (1), for a container opening. The surround (4) comprises a structure behind which parts of the container wall (1) extend and\/or which is penetrated by said parts. The method is carried out using a multi-part blow mold that has at least two mold parts, each having at least one cavity, wherein the surround is placed as an insert in the cavity (10) of the blow mold (7). The method comprises pressing the preform that has been forced into the cavity (10) into the structure of the surround (4) by means of a tool which is brought to bear on the preform (12) on the side of the preform facing away from the cavity (10).",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Cristoph Mehren",
+        "country":"4b886e9b-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KAUTEX TEXTRON GmbH & Co. KG"
+    },
+    {
+        "patent_id":"10000003",
+        "title":"Method for producing a container from a thermoplastic",
+        "abstract":"The invention relates to a method for producing a container (2) from a thermoplastic, having at least one surround (4), provided in the container wall (1), for a container opening. The surround (4) comprises a structure behind which parts of the container wall (1) extend and\/or which is penetrated by said parts. The method is carried out using a multi-part blow mold that has at least two mold parts, each having at least one cavity, wherein the surround is placed as an insert in the cavity (10) of the blow mold (7). The method comprises pressing the preform that has been forced into the cavity (10) into the structure of the surround (4) by means of a tool which is brought to bear on the preform (12) on the side of the preform facing away from the cavity (10).",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Guido Bergmann",
+        "country":"6c737da8-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"KAUTEX TEXTRON GmbH & Co. KG"
+    },
+    {
+        "patent_id":"10000004",
+        "title":"Process of obtaining a double-oriented film, co-extruded, and of low thickness made by a three bubble process that at the time of being thermoformed provides a uniform thickness in the produced tray",
+        "abstract":"The present invention relates to provides a double-oriented film, co-extrude, and of low thickness, with a layered composition that gives the property of being of high barrier to gases and manufactured by the process of co-extrusion of 3 bubbles, which gives the property of when being thermoformed, ensure the distribution of uniform thickness in the walls, base, folds, and corners of the formed tray saving a minimum of 50% of plastic without diminishing its gas barrier and its resistance to puncture.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Jose Juan Valadez Lopez",
+        "country":"74ce52e1-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"ZUBEX INDUSTRIAL SA DE CV"
+    },
+    {
+        "patent_id":"10000004",
+        "title":"Process of obtaining a double-oriented film, co-extruded, and of low thickness made by a three bubble process that at the time of being thermoformed provides a uniform thickness in the produced tray",
+        "abstract":"The present invention relates to provides a double-oriented film, co-extrude, and of low thickness, with a layered composition that gives the property of being of high barrier to gases and manufactured by the process of co-extrusion of 3 bubbles, which gives the property of when being thermoformed, ensure the distribution of uniform thickness in the walls, base, folds, and corners of the formed tray saving a minimum of 50% of plastic without diminishing its gas barrier and its resistance to puncture.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Miguel Jorge Zubiria Elizondo",
+        "country":"74ce52e1-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"ZUBEX INDUSTRIAL SA DE CV"
+    },
+    {
+        "patent_id":"10000005",
+        "title":"Article vacuum formation method and vacuum forming apparatus",
+        "abstract":"A vacuum forming apparatus is provided that forms an article having a covering bonded to the surface of a substrate in a molding space using a first mold and a second mold. The vacuum forming apparatus is provided with clamps for grasping the covering between the first and second molds arranged at the open positions. The clamps are movable between an interfering position, at which the clamps are located in the movement ranges of the first and second molds, and standby positions, at which the clamps are outside the movement ranges. After the covering is heated, the clamps grasping the covering move to the standby positions and stretch the covering. The first and second molds move to the closed positions and the article is molded between the first and second molds so that the stretched covering and the substrate are bonded to each other.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Katsunori Oda",
+        "country":"8bf15d99-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"TOYOTA SHATAI KABUSHIKI KAISHA"
+    },
+    {
+        "patent_id":"10000005",
+        "title":"Article vacuum formation method and vacuum forming apparatus",
+        "abstract":"A vacuum forming apparatus is provided that forms an article having a covering bonded to the surface of a substrate in a molding space using a first mold and a second mold. The vacuum forming apparatus is provided with clamps for grasping the covering between the first and second molds arranged at the open positions. The clamps are movable between an interfering position, at which the clamps are located in the movement ranges of the first and second molds, and standby positions, at which the clamps are outside the movement ranges. After the covering is heated, the clamps grasping the covering move to the standby positions and stretch the covering. The first and second molds move to the closed positions and the article is molded between the first and second molds so that the stretched covering and the substrate are bonded to each other.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Kenji Katou",
+        "country":"1d3e854a-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"TOYOTA SHATAI KABUSHIKI KAISHA"
+    },
+    {
+        "patent_id":"10000005",
+        "title":"Article vacuum formation method and vacuum forming apparatus",
+        "abstract":"A vacuum forming apparatus is provided that forms an article having a covering bonded to the surface of a substrate in a molding space using a first mold and a second mold. The vacuum forming apparatus is provided with clamps for grasping the covering between the first and second molds arranged at the open positions. The clamps are movable between an interfering position, at which the clamps are located in the movement ranges of the first and second molds, and standby positions, at which the clamps are outside the movement ranges. After the covering is heated, the clamps grasping the covering move to the standby positions and stretch the covering. The first and second molds move to the closed positions and the article is molded between the first and second molds so that the stretched covering and the substrate are bonded to each other.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Kenji Katou",
+        "country":"34b4468e-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"TOYOTA SHATAI KABUSHIKI KAISHA"
+    },
+    {
+        "patent_id":"10000005",
+        "title":"Article vacuum formation method and vacuum forming apparatus",
+        "abstract":"A vacuum forming apparatus is provided that forms an article having a covering bonded to the surface of a substrate in a molding space using a first mold and a second mold. The vacuum forming apparatus is provided with clamps for grasping the covering between the first and second molds arranged at the open positions. The clamps are movable between an interfering position, at which the clamps are located in the movement ranges of the first and second molds, and standby positions, at which the clamps are outside the movement ranges. After the covering is heated, the clamps grasping the covering move to the standby positions and stretch the covering. The first and second molds move to the closed positions and the article is molded between the first and second molds so that the stretched covering and the substrate are bonded to each other.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Kenji Katou",
+        "country":"5e63a8fc-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"TOYOTA SHATAI KABUSHIKI KAISHA"
+    },
+    {
+        "patent_id":"10000005",
+        "title":"Article vacuum formation method and vacuum forming apparatus",
+        "abstract":"A vacuum forming apparatus is provided that forms an article having a covering bonded to the surface of a substrate in a molding space using a first mold and a second mold. The vacuum forming apparatus is provided with clamps for grasping the covering between the first and second molds arranged at the open positions. The clamps are movable between an interfering position, at which the clamps are located in the movement ranges of the first and second molds, and standby positions, at which the clamps are outside the movement ranges. After the covering is heated, the clamps grasping the covering move to the standby positions and stretch the covering. The first and second molds move to the closed positions and the article is molded between the first and second molds so that the stretched covering and the substrate are bonded to each other.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Kenji Katou",
+        "country":"6de5356f-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"TOYOTA SHATAI KABUSHIKI KAISHA"
+    },
+    {
+        "patent_id":"10000005",
+        "title":"Article vacuum formation method and vacuum forming apparatus",
+        "abstract":"A vacuum forming apparatus is provided that forms an article having a covering bonded to the surface of a substrate in a molding space using a first mold and a second mold. The vacuum forming apparatus is provided with clamps for grasping the covering between the first and second molds arranged at the open positions. The clamps are movable between an interfering position, at which the clamps are located in the movement ranges of the first and second molds, and standby positions, at which the clamps are outside the movement ranges. After the covering is heated, the clamps grasping the covering move to the standby positions and stretch the covering. The first and second molds move to the closed positions and the article is molded between the first and second molds so that the stretched covering and the substrate are bonded to each other.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Kenji Katou",
+        "country":"8a43efe0-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"TOYOTA SHATAI KABUSHIKI KAISHA"
+    },
+    {
+        "patent_id":"10000005",
+        "title":"Article vacuum formation method and vacuum forming apparatus",
+        "abstract":"A vacuum forming apparatus is provided that forms an article having a covering bonded to the surface of a substrate in a molding space using a first mold and a second mold. The vacuum forming apparatus is provided with clamps for grasping the covering between the first and second molds arranged at the open positions. The clamps are movable between an interfering position, at which the clamps are located in the movement ranges of the first and second molds, and standby positions, at which the clamps are outside the movement ranges. After the covering is heated, the clamps grasping the covering move to the standby positions and stretch the covering. The first and second molds move to the closed positions and the article is molded between the first and second molds so that the stretched covering and the substrate are bonded to each other.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Kenji Katou",
+        "country":"8bf15d99-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"TOYOTA SHATAI KABUSHIKI KAISHA"
+    },
+    {
+        "patent_id":"10000005",
+        "title":"Article vacuum formation method and vacuum forming apparatus",
+        "abstract":"A vacuum forming apparatus is provided that forms an article having a covering bonded to the surface of a substrate in a molding space using a first mold and a second mold. The vacuum forming apparatus is provided with clamps for grasping the covering between the first and second molds arranged at the open positions. The clamps are movable between an interfering position, at which the clamps are located in the movement ranges of the first and second molds, and standby positions, at which the clamps are outside the movement ranges. After the covering is heated, the clamps grasping the covering move to the standby positions and stretch the covering. The first and second molds move to the closed positions and the article is molded between the first and second molds so that the stretched covering and the substrate are bonded to each other.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Kenji Katou",
+        "country":"8bf1759c-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"TOYOTA SHATAI KABUSHIKI KAISHA"
+    },
+    {
+        "patent_id":"10000005",
+        "title":"Article vacuum formation method and vacuum forming apparatus",
+        "abstract":"A vacuum forming apparatus is provided that forms an article having a covering bonded to the surface of a substrate in a molding space using a first mold and a second mold. The vacuum forming apparatus is provided with clamps for grasping the covering between the first and second molds arranged at the open positions. The clamps are movable between an interfering position, at which the clamps are located in the movement ranges of the first and second molds, and standby positions, at which the clamps are outside the movement ranges. After the covering is heated, the clamps grasping the covering move to the standby positions and stretch the covering. The first and second molds move to the closed positions and the article is molded between the first and second molds so that the stretched covering and the substrate are bonded to each other.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Kenji Katou",
+        "country":"9f02919d-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"TOYOTA SHATAI KABUSHIKI KAISHA"
+    },
+    {
+        "patent_id":"10000006",
+        "title":"Thermoforming mold device and a process for its manufacture and use",
+        "abstract":"A thermoforming mold device (1) providing a piece with a thin wall starting with a sheet of thermoplastic material is provided. At least one (3) of two parts of the mold (3, 3\u2032) comprises at least one means (4) of local deformation of a sheet (2\u2032) in the mold (3, 3\u2032) in its closed state, the at least one means (4) comprises a piece of hollow molding with a peripheral edge, which can be connected selectively to a source of suction and can be displaced between a folded position, in which the molding piece is situated in close proximity with the wall of the thermoformed piece, and a deployed position, in which the molding piece is applied under pressure with its peripheral edge against the wall of the thermoformed piece upholding the other part of the mold.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Marc Saelen",
+        "country":"45054ad0-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"REYDEL AUTOMOTIVE B.V."
+    },
+    {
+        "patent_id":"10000006",
+        "title":"Thermoforming mold device and a process for its manufacture and use",
+        "abstract":"A thermoforming mold device (1) providing a piece with a thin wall starting with a sheet of thermoplastic material is provided. At least one (3) of two parts of the mold (3, 3\u2032) comprises at least one means (4) of local deformation of a sheet (2\u2032) in the mold (3, 3\u2032) in its closed state, the at least one means (4) comprises a piece of hollow molding with a peripheral edge, which can be connected selectively to a source of suction and can be displaced between a folded position, in which the molding piece is situated in close proximity with the wall of the thermoformed piece, and a deployed position, in which the molding piece is applied under pressure with its peripheral edge against the wall of the thermoformed piece upholding the other part of the mold.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Marc Saelen",
+        "country":"478a472c-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"REYDEL AUTOMOTIVE B.V."
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Alex Huber",
+        "country":"a5099303-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Alex Huber",
+        "country":"bb6cebeb-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Alex Huber",
+        "country":"e0ed562f-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Alex Huber",
+        "country":"e30f6437-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Alex Huber",
+        "country":"e8c44888-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Corey Dickert",
+        "country":"e6abbb2a-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Corey Dickert",
+        "country":"e8c44888-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Ian Zimmermann",
+        "country":"a5099303-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Ian Zimmermann",
+        "country":"e8c44888-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Ian Zimmermann",
+        "country":"eba77012-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Jarrod Kotes",
+        "country":"e0d46bcd-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000007",
+        "title":"PEX expanding tool",
+        "abstract":"An expanding tool comprising: an actuator comprising a cylindrical housing that defines an actuator housing cavity; a primary ram disposed within the actuator housing cavity, the primary ram defining an internal primary ram cavity; a secondary ram disposed within the internal primary ram cavity; a cam roller carrier coupled to a distal end of the secondary ram; a drive collar positioned within a distal end of the actuator housing cavity; a roller clutch disposed within an internal cavity defined by an inner surface of the drive collar; a shuttle cam positioned between the roller clutch and a distal end of the primary ram; an expander cone coupled to the primary ram; and an expander head operably coupled to the drive collar.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Will Didier",
+        "country":"ea7e63b4-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Milwaukee Electric Tool Corporation"
+    },
+    {
+        "patent_id":"10000008",
+        "title":"Bracelet mold and method of use",
+        "abstract":"A decorated strip of coated, heat-shrinkable, plastic sheet material is placed in a spiral slot formed in a silicone rubber mold. The spiral slot is defined by a spiral wall having a uniform wall thickness. Upon heating in an oven, the material shrinks, forming a resiliently expansible arc-shaped band that can be worn as a bracelet or wristband.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Liah Caspi",
+        "country":"0be88efd-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"Alex Toys, LLC"
+    },
+    {
+        "patent_id":"10000009",
+        "title":"Sterile environment for additive manufacturing",
+        "abstract":"In sterile, additive manufacturing wherein one lamella is successively built upon an underlying lamella until an object is completed, a sterile manufacturing environment is provided. A major chamber large enough to accommodate the manufactured object has sterile accordion pleated sidewalls and a sterile top closed with flap valves. A minor chamber for supporting the nozzles positioned above the major chamber has similar valves in corresponding positions. Nozzles for material deposition penetrate the pair of valves to block air and particles from entry into the major chamber where the nozzles make layer by layer deposition of the object using XY areawise nozzle motion relative to the object as well as Z nozzle vertical motion with the major chamber expanding as the object is formed.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Nathan Christopher Maier",
+        "country":"648669f8-49af-11ed-9879-1234bde3cd05",
+        "company_name":null
+    },
+    {
+        "patent_id":"10000009",
+        "title":"Sterile environment for additive manufacturing",
+        "abstract":"In sterile, additive manufacturing wherein one lamella is successively built upon an underlying lamella until an object is completed, a sterile manufacturing environment is provided. A major chamber large enough to accommodate the manufactured object has sterile accordion pleated sidewalls and a sterile top closed with flap valves. A minor chamber for supporting the nozzles positioned above the major chamber has similar valves in corresponding positions. Nozzles for material deposition penetrate the pair of valves to block air and particles from entry into the major chamber where the nozzles make layer by layer deposition of the object using XY areawise nozzle motion relative to the object as well as Z nozzle vertical motion with the major chamber expanding as the object is formed.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Nathan Christopher Maier",
+        "country":"c4361743-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":null
+    },
+    {
+        "patent_id":"10000009",
+        "title":"Sterile environment for additive manufacturing",
+        "abstract":"In sterile, additive manufacturing wherein one lamella is successively built upon an underlying lamella until an object is completed, a sterile manufacturing environment is provided. A major chamber large enough to accommodate the manufactured object has sterile accordion pleated sidewalls and a sterile top closed with flap valves. A minor chamber for supporting the nozzles positioned above the major chamber has similar valves in corresponding positions. Nozzles for material deposition penetrate the pair of valves to block air and particles from entry into the major chamber where the nozzles make layer by layer deposition of the object using XY areawise nozzle motion relative to the object as well as Z nozzle vertical motion with the major chamber expanding as the object is formed.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Nathan Christopher Maier",
+        "country":"c59a954a-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":null
+    },
+    {
+        "patent_id":"10000009",
+        "title":"Sterile environment for additive manufacturing",
+        "abstract":"In sterile, additive manufacturing wherein one lamella is successively built upon an underlying lamella until an object is completed, a sterile manufacturing environment is provided. A major chamber large enough to accommodate the manufactured object has sterile accordion pleated sidewalls and a sterile top closed with flap valves. A minor chamber for supporting the nozzles positioned above the major chamber has similar valves in corresponding positions. Nozzles for material deposition penetrate the pair of valves to block air and particles from entry into the major chamber where the nozzles make layer by layer deposition of the object using XY areawise nozzle motion relative to the object as well as Z nozzle vertical motion with the major chamber expanding as the object is formed.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Nathan Christopher Maier",
+        "country":"c6999d14-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":null
+    },
+    {
+        "patent_id":"10000009",
+        "title":"Sterile environment for additive manufacturing",
+        "abstract":"In sterile, additive manufacturing wherein one lamella is successively built upon an underlying lamella until an object is completed, a sterile manufacturing environment is provided. A major chamber large enough to accommodate the manufactured object has sterile accordion pleated sidewalls and a sterile top closed with flap valves. A minor chamber for supporting the nozzles positioned above the major chamber has similar valves in corresponding positions. Nozzles for material deposition penetrate the pair of valves to block air and particles from entry into the major chamber where the nozzles make layer by layer deposition of the object using XY areawise nozzle motion relative to the object as well as Z nozzle vertical motion with the major chamber expanding as the object is formed.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Nathan Christopher Maier",
+        "country":"d728cc60-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":null
+    },
+    {
+        "patent_id":"10000009",
+        "title":"Sterile environment for additive manufacturing",
+        "abstract":"In sterile, additive manufacturing wherein one lamella is successively built upon an underlying lamella until an object is completed, a sterile manufacturing environment is provided. A major chamber large enough to accommodate the manufactured object has sterile accordion pleated sidewalls and a sterile top closed with flap valves. A minor chamber for supporting the nozzles positioned above the major chamber has similar valves in corresponding positions. Nozzles for material deposition penetrate the pair of valves to block air and particles from entry into the major chamber where the nozzles make layer by layer deposition of the object using XY areawise nozzle motion relative to the object as well as Z nozzle vertical motion with the major chamber expanding as the object is formed.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Nathan Christopher Maier",
+        "country":"ef60644c-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":null
+    },
+    {
+        "patent_id":"10000010",
+        "title":"3-D electrostatic printer using rack and pinion registration system",
+        "abstract":"3-D printing system include development stations positioned to electrostatically transfer build and support materials to an intermediate transfer surface, a transfer station adjacent the intermediate transfer surface, guides adjacent the transfer station, and platens moving on the guides. The guides are shaped to direct the platens to repeatedly pass the transfer station and come in contact with the intermediate transfer surface at the transfer station. The intermediate transfer surface transfers a layer of the build and support materials to the platens each time the platens contact the intermediate transfer surface at the transfer station to successively form layers of the build and support materials on the platens. The platens and the intermediate transfer surface include rack and pinion structures that temporarily join at the transfer station, as the platens pass the transfer station, to align the platens with the intermediate transfer surface as the platens contact the intermediate transfer surface.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Brian A. Hanna",
+        "country":"fa04335b-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Xerox Corporation"
+    },
+    {
+        "patent_id":"10000010",
+        "title":"3-D electrostatic printer using rack and pinion registration system",
+        "abstract":"3-D printing system include development stations positioned to electrostatically transfer build and support materials to an intermediate transfer surface, a transfer station adjacent the intermediate transfer surface, guides adjacent the transfer station, and platens moving on the guides. The guides are shaped to direct the platens to repeatedly pass the transfer station and come in contact with the intermediate transfer surface at the transfer station. The intermediate transfer surface transfers a layer of the build and support materials to the platens each time the platens contact the intermediate transfer surface at the transfer station to successively form layers of the build and support materials on the platens. The platens and the intermediate transfer surface include rack and pinion structures that temporarily join at the transfer station, as the platens pass the transfer station, to align the platens with the intermediate transfer surface as the platens contact the intermediate transfer surface.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Carlos M. Terrero",
+        "country":"fa020b2d-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Xerox Corporation"
+    },
+    {
+        "patent_id":"10000010",
+        "title":"3-D electrostatic printer using rack and pinion registration system",
+        "abstract":"3-D printing system include development stations positioned to electrostatically transfer build and support materials to an intermediate transfer surface, a transfer station adjacent the intermediate transfer surface, guides adjacent the transfer station, and platens moving on the guides. The guides are shaped to direct the platens to repeatedly pass the transfer station and come in contact with the intermediate transfer surface at the transfer station. The intermediate transfer surface transfers a layer of the build and support materials to the platens each time the platens contact the intermediate transfer surface at the transfer station to successively form layers of the build and support materials on the platens. The platens and the intermediate transfer surface include rack and pinion structures that temporarily join at the transfer station, as the platens pass the transfer station, to align the platens with the intermediate transfer surface as the platens contact the intermediate transfer surface.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Donald R. Fess",
+        "country":"81aa2714-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"Xerox Corporation"
+    },
+    {
+        "patent_id":"10000010",
+        "title":"3-D electrostatic printer using rack and pinion registration system",
+        "abstract":"3-D printing system include development stations positioned to electrostatically transfer build and support materials to an intermediate transfer surface, a transfer station adjacent the intermediate transfer surface, guides adjacent the transfer station, and platens moving on the guides. The guides are shaped to direct the platens to repeatedly pass the transfer station and come in contact with the intermediate transfer surface at the transfer station. The intermediate transfer surface transfers a layer of the build and support materials to the platens each time the platens contact the intermediate transfer surface at the transfer station to successively form layers of the build and support materials on the platens. The platens and the intermediate transfer surface include rack and pinion structures that temporarily join at the transfer station, as the platens pass the transfer station, to align the platens with the intermediate transfer surface as the platens contact the intermediate transfer surface.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Donald R. Fess",
+        "country":"d929a955-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Xerox Corporation"
+    },
+    {
+        "patent_id":"10000010",
+        "title":"3-D electrostatic printer using rack and pinion registration system",
+        "abstract":"3-D printing system include development stations positioned to electrostatically transfer build and support materials to an intermediate transfer surface, a transfer station adjacent the intermediate transfer surface, guides adjacent the transfer station, and platens moving on the guides. The guides are shaped to direct the platens to repeatedly pass the transfer station and come in contact with the intermediate transfer surface at the transfer station. The intermediate transfer surface transfers a layer of the build and support materials to the platens each time the platens contact the intermediate transfer surface at the transfer station to successively form layers of the build and support materials on the platens. The platens and the intermediate transfer surface include rack and pinion structures that temporarily join at the transfer station, as the platens pass the transfer station, to align the platens with the intermediate transfer surface as the platens contact the intermediate transfer surface.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Lynn Saxton",
+        "country":"01f3b027-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"Xerox Corporation"
+    },
+    {
+        "patent_id":"10000010",
+        "title":"3-D electrostatic printer using rack and pinion registration system",
+        "abstract":"3-D printing system include development stations positioned to electrostatically transfer build and support materials to an intermediate transfer surface, a transfer station adjacent the intermediate transfer surface, guides adjacent the transfer station, and platens moving on the guides. The guides are shaped to direct the platens to repeatedly pass the transfer station and come in contact with the intermediate transfer surface at the transfer station. The intermediate transfer surface transfers a layer of the build and support materials to the platens each time the platens contact the intermediate transfer surface at the transfer station to successively form layers of the build and support materials on the platens. The platens and the intermediate transfer surface include rack and pinion structures that temporarily join at the transfer station, as the platens pass the transfer station, to align the platens with the intermediate transfer surface as the platens contact the intermediate transfer surface.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Lynn Saxton",
+        "country":"dd0529c6-16c7-11ed-9b5f-1234bde3cd05",
+        "company_name":"Xerox Corporation"
+    },
+    {
+        "patent_id":"10000010",
+        "title":"3-D electrostatic printer using rack and pinion registration system",
+        "abstract":"3-D printing system include development stations positioned to electrostatically transfer build and support materials to an intermediate transfer surface, a transfer station adjacent the intermediate transfer surface, guides adjacent the transfer station, and platens moving on the guides. The guides are shaped to direct the platens to repeatedly pass the transfer station and come in contact with the intermediate transfer surface at the transfer station. The intermediate transfer surface transfers a layer of the build and support materials to the platens each time the platens contact the intermediate transfer surface at the transfer station to successively form layers of the build and support materials on the platens. The platens and the intermediate transfer surface include rack and pinion structures that temporarily join at the transfer station, as the platens pass the transfer station, to align the platens with the intermediate transfer surface as the platens contact the intermediate transfer surface.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Roberto A. Irizarry",
+        "country":"01b44b89-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"Xerox Corporation"
+    },
+    {
+        "patent_id":"10000010",
+        "title":"3-D electrostatic printer using rack and pinion registration system",
+        "abstract":"3-D printing system include development stations positioned to electrostatically transfer build and support materials to an intermediate transfer surface, a transfer station adjacent the intermediate transfer surface, guides adjacent the transfer station, and platens moving on the guides. The guides are shaped to direct the platens to repeatedly pass the transfer station and come in contact with the intermediate transfer surface at the transfer station. The intermediate transfer surface transfers a layer of the build and support materials to the platens each time the platens contact the intermediate transfer surface at the transfer station to successively form layers of the build and support materials on the platens. The platens and the intermediate transfer surface include rack and pinion structures that temporarily join at the transfer station, as the platens pass the transfer station, to align the platens with the intermediate transfer surface as the platens contact the intermediate transfer surface.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Roberto A. Irizarry",
+        "country":"04726932-16c8-11ed-9b5f-1234bde3cd05",
+        "company_name":"Xerox Corporation"
+    },
+    {
+        "patent_id":"10000010",
+        "title":"3-D electrostatic printer using rack and pinion registration system",
+        "abstract":"3-D printing system include development stations positioned to electrostatically transfer build and support materials to an intermediate transfer surface, a transfer station adjacent the intermediate transfer surface, guides adjacent the transfer station, and platens moving on the guides. The guides are shaped to direct the platens to repeatedly pass the transfer station and come in contact with the intermediate transfer surface at the transfer station. The intermediate transfer surface transfers a layer of the build and support materials to the platens each time the platens contact the intermediate transfer surface at the transfer station to successively form layers of the build and support materials on the platens. The platens and the intermediate transfer surface include rack and pinion structures that temporarily join at the transfer station, as the platens pass the transfer station, to align the platens with the intermediate transfer surface as the platens contact the intermediate transfer surface.",
+        "filing_date":"2018-06-19",
+        "year":"2018",
+        "inventor_name":"Roberto A. Irizarry",
+        "country":"88019c4d-49af-11ed-9879-1234bde3cd05",
+        "company_name":"Xerox Corporation"
+    }
+]

@@ -1,0 +1,961 @@
+{
+  "companies": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "company_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "name",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 572495,
+    "sample_rows": [
+      {
+        "company_id": "a9d256f6-26f6-4553-a8ae-1a1bf4de1030",
+        "name": "Metal Works Ramat David"
+      },
+      {
+        "company_id": "3ffdc6b4-9949-4395-9aae-f90cb3a18637",
+        "name": "DIVERGENT TECHNOLOGIES, INC."
+      },
+      {
+        "company_id": "bdcc4e9e-662e-4d11-bc1a-7beddcb4e431",
+        "name": "U.S. Philips Corporation"
+      }
+    ]
+  },
+  "g_assignee_disambiguated": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "patent_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "assignee_sequence",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 2,
+        "name": "assignee_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 3,
+        "name": "disambig_assignee_individual_name_first",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 4,
+        "name": "disambig_assignee_individual_name_last",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 5,
+        "name": "disambig_assignee_organization",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 6,
+        "name": "assignee_type",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 7,
+        "name": "location_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 8751310,
+    "sample_rows": [
+      {
+        "patent_id": "4488683",
+        "assignee_sequence": "0",
+        "assignee_id": "a9d256f6-26f6-4553-a8ae-1a1bf4de1030",
+        "disambig_assignee_individual_name_first": null,
+        "disambig_assignee_individual_name_last": null,
+        "disambig_assignee_organization": "Metal Works Ramat David",
+        "assignee_type": "3",
+        "location_id": "50dc5d46-16c8-11ed-9b5f-1234bde3cd05"
+      },
+      {
+        "patent_id": "11872626",
+        "assignee_sequence": "0",
+        "assignee_id": "3ffdc6b4-9949-4395-9aae-f90cb3a18637",
+        "disambig_assignee_individual_name_first": null,
+        "disambig_assignee_individual_name_last": null,
+        "disambig_assignee_organization": "DIVERGENT TECHNOLOGIES, INC.",
+        "assignee_type": "2",
+        "location_id": "15c69712-16c8-11ed-9b5f-1234bde3cd05"
+      },
+      {
+        "patent_id": "5856666",
+        "assignee_sequence": "0",
+        "assignee_id": "bdcc4e9e-662e-4d11-bc1a-7beddcb4e431",
+        "disambig_assignee_individual_name_first": null,
+        "disambig_assignee_individual_name_last": null,
+        "disambig_assignee_organization": "U.S. Philips Corporation",
+        "assignee_type": "2",
+        "location_id": "92237ca2-16c8-11ed-9b5f-1234bde3cd05"
+      }
+    ]
+  },
+  "g_cpc_at_issue": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "patent_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "cpc_sequence",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 2,
+        "name": "cpc_version_indicator",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 3,
+        "name": "cpc_section",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 4,
+        "name": "cpc_class",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 5,
+        "name": "cpc_subclass",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 6,
+        "name": "cpc_group",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 7,
+        "name": "cpc_type",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 8,
+        "name": "cpc_action_date",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 25022251,
+    "sample_rows": [
+      {
+        "patent_id": "8992713",
+        "cpc_sequence": "12",
+        "cpc_version_indicator": "2013-01-01",
+        "cpc_section": "H",
+        "cpc_class": "H05",
+        "cpc_subclass": "H05K",
+        "cpc_group": "H05K3/4644",
+        "cpc_type": "additional",
+        "cpc_action_date": "2015-03-31"
+      },
+      {
+        "patent_id": "9339050",
+        "cpc_sequence": "2",
+        "cpc_version_indicator": "2013-01-01",
+        "cpc_section": "A",
+        "cpc_class": "A23",
+        "cpc_subclass": "A23G",
+        "cpc_group": "A23G3/0031",
+        "cpc_type": "inventional",
+        "cpc_action_date": "2016-05-17"
+      },
+      {
+        "patent_id": "10333523",
+        "cpc_sequence": "3",
+        "cpc_version_indicator": "2013-01-01",
+        "cpc_section": "H",
+        "cpc_class": "H01",
+        "cpc_subclass": "H01L",
+        "cpc_group": "H01L43/08",
+        "cpc_type": "inventional",
+        "cpc_action_date": "2019-06-25"
+      }
+    ]
+  },
+  "g_cpc_current": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "patent_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "cpc_sequence",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 2,
+        "name": "cpc_section",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 3,
+        "name": "cpc_class",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 4,
+        "name": "cpc_subclass",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 5,
+        "name": "cpc_group",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 6,
+        "name": "cpc_type",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 59805669,
+    "sample_rows": [
+      {
+        "patent_id": "3950000",
+        "cpc_sequence": "0",
+        "cpc_section": "A",
+        "cpc_class": "A63",
+        "cpc_subclass": "A63C",
+        "cpc_group": "A63C9/001",
+        "cpc_type": "inventional"
+      },
+      {
+        "patent_id": "3950000",
+        "cpc_sequence": "1",
+        "cpc_section": "A",
+        "cpc_class": "A63",
+        "cpc_subclass": "A63C",
+        "cpc_group": "A63C9/00",
+        "cpc_type": "inventional"
+      },
+      {
+        "patent_id": "3950000",
+        "cpc_sequence": "2",
+        "cpc_section": "A",
+        "cpc_class": "A63",
+        "cpc_subclass": "A63C",
+        "cpc_group": "A63C9/002",
+        "cpc_type": "inventional"
+      }
+    ]
+  },
+  "g_cpc_title": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "cpc_subclass",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "cpc_subclass_title",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 2,
+        "name": "cpc_group",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 3,
+        "name": "cpc_group_title",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 4,
+        "name": "cpc_class",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 5,
+        "name": "cpc_class_title",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 271366,
+    "sample_rows": [
+      {
+        "cpc_subclass": "A01B",
+        "cpc_subclass_title": "SOIL WORKING IN AGRICULTURE OR FORESTRY; PARTS, DETAILS, OR ACCESSORIES OF AGRICULTURAL MACHINES OR IMPLEMENTS, IN GENERAL ",
+        "cpc_group": "A01B1/00",
+        "cpc_group_title": "Hand tools ",
+        "cpc_class": "A01",
+        "cpc_class_title": "AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING; FISHING"
+      },
+      {
+        "cpc_subclass": "A01B",
+        "cpc_subclass_title": "SOIL WORKING IN AGRICULTURE OR FORESTRY; PARTS, DETAILS, OR ACCESSORIES OF AGRICULTURAL MACHINES OR IMPLEMENTS, IN GENERAL ",
+        "cpc_group": "A01B1/02",
+        "cpc_group_title": "Hand tools -Spades; Shovels",
+        "cpc_class": "A01",
+        "cpc_class_title": "AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING; FISHING"
+      },
+      {
+        "cpc_subclass": "A01B",
+        "cpc_subclass_title": "SOIL WORKING IN AGRICULTURE OR FORESTRY; PARTS, DETAILS, OR ACCESSORIES OF AGRICULTURAL MACHINES OR IMPLEMENTS, IN GENERAL ",
+        "cpc_group": "A01B1/022",
+        "cpc_group_title": "Hand tools -Spades; Shovels-Collapsible; extensible; combinations with other tools",
+        "cpc_class": "A01",
+        "cpc_class_title": "AGRICULTURE; FORESTRY; ANIMAL HUSBANDRY; HUNTING; TRAPPING; FISHING"
+      }
+    ]
+  },
+  "g_inventor_disambiguated": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "patent_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "inventor_sequence",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 2,
+        "name": "inventor_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 3,
+        "name": "disambig_inventor_name_first",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 4,
+        "name": "disambig_inventor_name_last",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 5,
+        "name": "gender_code",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 6,
+        "name": "location_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 24037380,
+    "sample_rows": [
+      {
+        "patent_id": "D1006496",
+        "inventor_sequence": "0",
+        "inventor_id": "fl:we_ln:jiang-165",
+        "disambig_inventor_name_first": "Wenjing",
+        "disambig_inventor_name_last": "Jiang",
+        "gender_code": "F",
+        "location_id": "9d072d42-49af-11ed-9879-1234bde3cd05"
+      },
+      {
+        "patent_id": "12029253",
+        "inventor_sequence": "4",
+        "inventor_id": "fl:ei_ln:baumker-1",
+        "disambig_inventor_name_first": "Eiko",
+        "disambig_inventor_name_last": "B\u00c4UMKER",
+        "gender_code": "M",
+        "location_id": "67149e17-49af-11ed-9879-1234bde3cd05"
+      },
+      {
+        "patent_id": "6584128",
+        "inventor_sequence": "0",
+        "inventor_id": "fl:ri_ln:kroeger-1",
+        "disambig_inventor_name_first": "Richard",
+        "disambig_inventor_name_last": "Kroeger",
+        "gender_code": "M",
+        "location_id": null
+      }
+    ]
+  },
+  "g_ipc_at_issue": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "patent_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "ipc_sequence",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 2,
+        "name": "classification_level",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 3,
+        "name": "section",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 4,
+        "name": "ipc_class",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 5,
+        "name": "subclass",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 6,
+        "name": "main_group",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 7,
+        "name": "subgroup",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 8,
+        "name": "classification_value",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 9,
+        "name": "classification_status",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 10,
+        "name": "classification_data_source",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 11,
+        "name": "action_date",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 12,
+        "name": "ipc_version_indicator",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 25505642,
+    "sample_rows": [
+      {
+        "patent_id": "6864832",
+        "ipc_sequence": "0",
+        "classification_level": null,
+        "section": "G",
+        "ipc_class": "01",
+        "subclass": "S",
+        "main_group": "013",
+        "subgroup": "/42",
+        "classification_value": null,
+        "classification_status": null,
+        "classification_data_source": null,
+        "action_date": null,
+        "ipc_version_indicator": null
+      },
+      {
+        "patent_id": "9954111",
+        "ipc_sequence": "8",
+        "classification_level": "A",
+        "section": "H",
+        "ipc_class": "01",
+        "subclass": "L",
+        "main_group": "27",
+        "subgroup": "1156",
+        "classification_value": "I",
+        "classification_status": "B",
+        "classification_data_source": "H",
+        "action_date": "2018-04-24",
+        "ipc_version_indicator": "2017-01-01"
+      },
+      {
+        "patent_id": "10048897",
+        "ipc_sequence": "7",
+        "classification_level": "A",
+        "section": "G",
+        "ipc_class": "06",
+        "subclass": "F",
+        "main_group": "12",
+        "subgroup": "891",
+        "classification_value": "I",
+        "classification_status": "B",
+        "classification_data_source": "H",
+        "action_date": "2018-08-14",
+        "ipc_version_indicator": "2016-01-01"
+      }
+    ]
+  },
+  "g_patent": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "patent_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "patent_type",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 2,
+        "name": "patent_date",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 3,
+        "name": "patent_title",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 4,
+        "name": "wipo_kind",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 5,
+        "name": "num_claims",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 6,
+        "name": "withdrawn",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 7,
+        "name": "filename",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 9454161,
+    "sample_rows": [
+      {
+        "patent_id": "10000000",
+        "patent_type": "utility",
+        "patent_date": "2018-06-19",
+        "patent_title": "Coherent LADAR using intra-pixel quadrature detection",
+        "wipo_kind": "B2",
+        "num_claims": "20",
+        "withdrawn": "0",
+        "filename": "ipg180619.xml"
+      },
+      {
+        "patent_id": "10000001",
+        "patent_type": "utility",
+        "patent_date": "2018-06-19",
+        "patent_title": "Injection molding machine and mold thickness control method",
+        "wipo_kind": "B2",
+        "num_claims": "12",
+        "withdrawn": "0",
+        "filename": "ipg180619.xml"
+      },
+      {
+        "patent_id": "10000002",
+        "patent_type": "utility",
+        "patent_date": "2018-06-19",
+        "patent_title": "Method for manufacturing polymer film and co-extruded film",
+        "wipo_kind": "B2",
+        "num_claims": "9",
+        "withdrawn": "0",
+        "filename": "ipg180619.xml"
+      }
+    ]
+  },
+  "g_patent_abstract": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "patent_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "patent_abstract",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 9454161,
+    "sample_rows": [
+      {
+        "patent_id": "10000000",
+        "patent_abstract": "A frequency modulated (coherent) laser detection and ranging system includes a read-out integrated circuit formed with a two-dimensional array of detector elements each including a photosensitive region receiving both return light reflected from a target and light from a local oscillator, and local processing circuitry sampling the output of the photosensitive region four times during each sample period clock cycle to obtain quadrature components. A data bus coupled to one or more outputs of each of the detector elements receives the quadrature components from each of the detector elements for each sample period and serializes the received quadrature components. A processor coupled to the data bus receives the serialized quadrature components and determines an amplitude and a phase for at least one interfering frequency corresponding to interference between the return light and the local oscillator light using the quadrature components."
+      },
+      {
+        "patent_id": "10000001",
+        "patent_abstract": "The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force."
+      },
+      {
+        "patent_id": "10000002",
+        "patent_abstract": "The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points."
+      }
+    ]
+  },
+  "inventors": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "inventor_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "name",
+        "type": "",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 2,
+        "name": "country",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 6974449,
+    "sample_rows": [
+      {
+        "inventor_id": "fl:we_ln:jiang-165",
+        "name": "Wenjing Jiang",
+        "country": "9d072d42-49af-11ed-9879-1234bde3cd05"
+      },
+      {
+        "inventor_id": "fl:ei_ln:baumker-1",
+        "name": "Eiko B\u00c4UMKER",
+        "country": "67149e17-49af-11ed-9879-1234bde3cd05"
+      },
+      {
+        "inventor_id": "fl:ri_ln:kroeger-1",
+        "name": "Richard Kroeger",
+        "country": null
+      }
+    ]
+  },
+  "patents": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "patent_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "title",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 2,
+        "name": "abstract",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 3,
+        "name": "filing_date",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 4,
+        "name": "year",
+        "type": "",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 9454161,
+    "sample_rows": [
+      {
+        "patent_id": "10000000",
+        "title": "Coherent LADAR using intra-pixel quadrature detection",
+        "abstract": "A frequency modulated (coherent) laser detection and ranging system includes a read-out integrated circuit formed with a two-dimensional array of detector elements each including a photosensitive region receiving both return light reflected from a target and light from a local oscillator, and local processing circuitry sampling the output of the photosensitive region four times during each sample period clock cycle to obtain quadrature components. A data bus coupled to one or more outputs of each of the detector elements receives the quadrature components from each of the detector elements for each sample period and serializes the received quadrature components. A processor coupled to the data bus receives the serialized quadrature components and determines an amplitude and a phase for at least one interfering frequency corresponding to interference between the return light and the local oscillator light using the quadrature components.",
+        "filing_date": "2018-06-19",
+        "year": "2018"
+      },
+      {
+        "patent_id": "10000001",
+        "title": "Injection molding machine and mold thickness control method",
+        "abstract": "The injection molding machine includes a fixed platen, a moveable platen moving forward and backward by a toggle link, a base plate supporting the toggle link, a driving part for mold clamping to operate the toggle link, a driving part for mold thickness adjustment to adjust a mold thickness, and a control unit to calculate a movement distance gap before a clamping process by controlling the driving part for mold thickness adjustment to move the base plate backward and then move the base plate forward to a target movement position based on a fold amount of the toggle link, and control the driving part for mold thickness adjustment using a value obtained by deducting the movement distance gap from the fold amount of the toggle link when producing a clamp force.",
+        "filing_date": "2018-06-19",
+        "year": "2018"
+      },
+      {
+        "patent_id": "10000002",
+        "title": "Method for manufacturing polymer film and co-extruded film",
+        "abstract": "The present invention relates to: a method for manufacturing a polymer film, the method including a base film forming step for co-extruding a first resin containing a polyamide-based resin and a second resin containing a copolymer including polyamide-based segments and polyether-based segments; a co-extruded film including a base film including a first resin layer containing a polyamide-based resin, and a second resin layer containing a copolymer having polyamide-based segments and polyether-based segments; to a co-extruded film including a base film including a first resin layer and a second resin layer, which have different melting points; and to a method for manufacturing a polymer film, the method including a base film forming step including a step of co-extruding a first resin and a second resin, which have different melting points.",
+        "filing_date": "2018-06-19",
+        "year": "2018"
+      }
+    ]
+  },
+  "relationships": {
+    "columns": [
+      {
+        "cid": 0,
+        "name": "patent_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 1,
+        "name": "inventor_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      },
+      {
+        "cid": 2,
+        "name": "company_id",
+        "type": "TEXT",
+        "not_null": false,
+        "default": null,
+        "pk": false
+      }
+    ],
+    "row_count": 25291173,
+    "sample_rows": [
+      {
+        "patent_id": "D1006496",
+        "inventor_id": "fl:we_ln:jiang-165",
+        "company_id": null
+      },
+      {
+        "patent_id": "12029253",
+        "inventor_id": "fl:ei_ln:baumker-1",
+        "company_id": "41946e18-f5c5-4724-a6ee-fc0a425d198a"
+      },
+      {
+        "patent_id": "6584128",
+        "inventor_id": "fl:ri_ln:kroeger-1",
+        "company_id": "38969e56-ae8b-409d-9dd9-f67b77acb42b"
+      }
+    ]
+  }
+}
